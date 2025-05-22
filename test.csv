@@ -1,0 +1,201 @@
+marca,model,an_model,kilometraj,capacitate_cilindirca,combustibil,transmisie,nr_usi,pret
+Ford,Focus,2008,212892,1.5,hybrid,manuala,5,4298
+Audi,S4,2005,199027,4.3,benzina,automata,4,8992
+Hyundai,Veloster,2013,111530,4.2,hybrid,manuala,4,12596
+Volkswagen,Routan,2012,205551,3.6,benzina,automata,5,9156
+Audi,TT,2017,241584,2.0,diesel,automata,4,10477
+Audi,TT,2008,138767,1.0,hybrid,automata,4,6770
+Ford,Taurus,2007,163338,3.7,benzina,automata,2,7824
+Audi,A4,2005,216428,1.9,benzina,manuala,3,6085
+Mercedes-Benz,E-Class,2011,48585,3.2,hybrid,manuala,5,15032
+Ford,Mustang,2018,248307,1.7,benzina,manuala,2,10735
+Volkswagen,Routan,2019,18545,2.2,hybrid,manuala,2,19482
+Audi,TT,2010,199806,3.4,benzina,manuala,3,10098
+Hyundai,Genesis Coupe,2023,20708,4.0,benzina,manuala,3,22082
+Mercedes-Benz,SLK-Class,2021,35306,1.8,diesel,automata,2,19930
+Volkswagen,Passat,2023,71690,4.0,hybrid,manuala,5,23570
+Ford,Focus,2008,272683,4.1,diesel,automata,3,6013
+BMW,128i,2013,286974,1.9,benzina,automata,2,11652
+Volkswagen,Touareg,2015,221386,1.6,diesel,automata,5,10869
+Mercedes-Benz,E-Class,2020,59748,2.0,diesel,manuala,3,21790
+Volkswagen,Touareg,2019,253710,2.8,benzina,manuala,2,13384
+Volkswagen,Touareg,2020,98848,1.5,hybrid,manuala,4,17316
+Toyota,Scion xB,2019,194407,2.9,diesel,manuala,3,14917
+Volkswagen,Phaeton,2017,216810,3.2,hybrid,manuala,5,11271
+Hyundai,Equus,2016,91672,2.4,diesel,automata,5,14736
+Audi,RS 6,2012,215706,2.5,diesel,manuala,4,9357
+Hyundai,Veloster,2005,230913,1.5,diesel,automata,5,3434
+Volkswagen,Phaeton,2010,34375,2.9,benzina,automata,5,12242
+Mercedes-Benz,CLS-Class,2006,180150,1.1,diesel,manuala,2,5832
+Volkswagen,Routan,2005,83781,3.5,benzina,manuala,2,8260
+Mercedes-Benz,SLK-Class,2008,167049,1.1,hybrid,manuala,4,8536
+Audi,A4,2007,136484,1.1,benzina,automata,5,9058
+Audi,A4,2020,65692,4.4,hybrid,automata,5,19912
+Volkswagen,Routan,2007,171807,3.8,diesel,manuala,5,9635
+Ford,Mustang,2013,19397,2.7,hybrid,automata,2,13873
+Volkswagen,Golf,2014,44954,2.4,benzina,automata,3,14709
+Toyota,Scion xA,2022,200004,4.2,benzina,automata,2,18029
+BMW,128i,2017,123324,3.8,diesel,manuala,2,17501
+Audi,RS 6,2006,288821,3.5,hybrid,manuala,3,4264
+Volkswagen,Touareg,2011,229786,1.4,diesel,manuala,3,7738
+Audi,S4,2020,14337,1.7,hybrid,automata,2,18846
+Toyota,Scion xB,2005,171619,1.9,hybrid,automata,2,4902
+Ford,Crown Victoria,2019,32532,4.2,benzina,manuala,5,21466
+Mercedes-Benz,SLK-Class,2021,134473,1.3,hybrid,automata,5,19642
+Hyundai,Genesis Coupe,2020,156456,2.6,diesel,automata,5,14012
+Volkswagen,Routan,2019,278060,3.6,benzina,automata,2,11907
+Mercedes-Benz,SLK-Class,2019,263090,1.8,diesel,manuala,5,12805
+BMW,335i,2006,29071,1.6,hybrid,automata,4,10375
+Volkswagen,Golf,2016,219879,2.7,benzina,manuala,4,13677
+Volkswagen,Phaeton,2006,44749,1.4,hybrid,automata,3,8399
+Ford,Focus,2022,217890,1.1,diesel,automata,3,11880
+Mercedes-Benz,Sprinter,2019,43638,1.1,hybrid,automata,5,18506
+Hyundai,Tucson,2022,252736,3.9,diesel,manuala,5,15493
+Mercedes-Benz,Sprinter,2020,271776,4.1,hybrid,automata,4,15272
+BMW,328i,2011,113099,2.2,diesel,automata,3,12409
+BMW,135i,2005,190625,3.1,benzina,automata,3,5945
+Ford,Taurus,2011,80703,2.7,benzina,manuala,3,12675
+Mercedes-Benz,Sprinter,2006,5846,2.9,diesel,automata,5,14367
+BMW,328i,2009,69323,2.5,benzina,manuala,4,11293
+Audi,RS 6,2022,109537,3.7,hybrid,automata,5,21562
+Volkswagen,Routan,2022,52362,1.2,hybrid,manuala,5,18518
+Audi,TT,2023,232645,3.6,hybrid,automata,2,19105
+Toyota,Corolla,2005,130501,2.3,benzina,manuala,5,6315
+Hyundai,Veloster,2015,44711,2.6,benzina,automata,4,16510
+Mercedes-Benz,SLK-Class,2023,154646,3.0,hybrid,manuala,2,19817
+Ford,Focus,2013,37154,3.6,diesel,automata,2,14936
+BMW,M3,2018,286173,3.5,benzina,manuala,5,15357
+Audi,A4,2021,51197,3.9,hybrid,automata,2,22725
+Hyundai,Equus,2018,159782,2.3,benzina,automata,2,16064
+Volkswagen,Passat,2023,237604,2.9,diesel,automata,5,15638
+Hyundai,Equus,2012,135330,2.2,diesel,automata,2,8461
+Volkswagen,Phaeton,2019,5126,1.5,hybrid,automata,4,19570
+Volkswagen,Passat,2009,201382,3.1,diesel,manuala,5,9652
+BMW,M3,2008,13070,2.2,diesel,manuala,3,13272
+Ford,Crown Victoria,2014,291586,3.8,benzina,manuala,4,9028
+Ford,Focus,2010,154521,2.0,hybrid,automata,2,7457
+Hyundai,Tucson,2012,184374,2.8,diesel,automata,5,7834
+Audi,RS 6,2018,188675,3.8,benzina,manuala,3,16256
+Volkswagen,Golf,2013,297822,3.4,diesel,manuala,5,7741
+BMW,328i,2012,89458,4.4,benzina,automata,2,16761
+Audi,TT,2007,7198,4.0,benzina,automata,3,15751
+Audi,A6,2010,261713,3.0,hybrid,manuala,4,7829
+BMW,328i,2022,193456,2.0,diesel,manuala,5,18419
+BMW,328i,2011,21725,1.5,benzina,manuala,2,15062
+Hyundai,Genesis Coupe,2006,173976,2.4,hybrid,manuala,5,5849
+Ford,Crown Victoria,2009,156563,2.9,benzina,automata,3,9324
+Mercedes-Benz,Sprinter,2022,72957,3.2,hybrid,automata,4,23300
+Ford,Focus,2012,42641,3.1,diesel,manuala,4,15449
+Ford,Focus,2015,215017,4.1,hybrid,manuala,4,9820
+Hyundai,Santa Fe,2017,187256,2.4,diesel,automata,2,14681
+Volkswagen,Golf,2015,210763,1.8,hybrid,automata,3,9794
+Toyota,Prius,2005,136878,4.1,benzina,automata,5,6661
+Toyota,Scion xA,2017,78781,4.4,benzina,manuala,4,19145
+Volkswagen,Touareg,2008,261689,2.7,benzina,manuala,5,5327
+Audi,RS 6,2017,195792,4.1,hybrid,manuala,2,16510
+Mercedes-Benz,SL-Class,2021,274458,4.0,benzina,automata,5,16028
+Toyota,Prius,2013,80418,4.4,hybrid,automata,3,14428
+Mercedes-Benz,SL-Class,2005,143563,2.1,hybrid,manuala,5,7985
+Mercedes-Benz,E-Class,2020,186264,3.7,hybrid,manuala,4,18078
+Toyota,Corolla,2006,258973,3.2,benzina,manuala,2,6178
+Toyota,Corolla,2019,12813,2.3,hybrid,automata,3,19348
+Toyota,Scion tC,2019,293173,2.6,hybrid,automata,3,11894
+BMW,328i,2014,153554,1.8,hybrid,manuala,3,14359
+Mercedes-Benz,SLK-Class,2012,184362,1.1,benzina,manuala,5,8918
+Toyota,Scion tC,2017,285783,2.9,hybrid,automata,2,12370
+Mercedes-Benz,SLK-Class,2016,288707,1.6,hybrid,manuala,3,10682
+Ford,Mustang,2009,210390,2.6,diesel,automata,5,7245
+Mercedes-Benz,CLS-Class,2007,151323,3.8,hybrid,automata,4,11298
+Ford,Fusion,2021,39531,3.0,diesel,manuala,3,19957
+Mercedes-Benz,CLS-Class,2020,79744,1.6,benzina,automata,2,18081
+Audi,A6,2014,259346,4.4,hybrid,manuala,5,12001
+Hyundai,Equus,2014,56195,3.7,diesel,manuala,3,16256
+Ford,Taurus,2017,174631,1.1,hybrid,manuala,3,10489
+Volkswagen,Routan,2005,210735,1.0,diesel,automata,5,2788
+Audi,A6,2012,199555,1.3,benzina,automata,4,10436
+Mercedes-Benz,Sprinter,2017,14078,3.3,diesel,manuala,3,21188
+Toyota,Scion xA,2022,234834,4.1,hybrid,manuala,5,18472
+Ford,Taurus,2020,77715,1.9,benzina,manuala,4,17308
+Audi,RS 6,2009,115198,2.5,diesel,manuala,4,10515
+Volkswagen,Routan,2011,276090,3.4,hybrid,manuala,5,7260
+Hyundai,Genesis Coupe,2015,202133,4.4,diesel,automata,5,13812
+Volkswagen,Golf,2008,207332,2.2,benzina,manuala,3,7276
+Audi,A4,2012,221184,3.1,diesel,manuala,2,11068
+Mercedes-Benz,SLK-Class,2023,39707,1.9,benzina,manuala,3,24098
+Hyundai,Tucson,2013,248341,2.4,benzina,manuala,2,6978
+Ford,Mustang,2019,41059,1.6,hybrid,automata,2,18165
+Volkswagen,Routan,2022,271258,3.8,benzina,manuala,5,16484
+Ford,Focus,2013,161498,4.0,diesel,automata,5,13090
+Ford,Crown Victoria,2010,270856,1.4,diesel,automata,5,4301
+Toyota,Prius,2007,8726,3.2,diesel,automata,3,12554
+Hyundai,Tucson,2014,112522,2.9,hybrid,automata,3,11394
+Mercedes-Benz,E-Class,2011,133803,4.2,diesel,automata,2,14367
+Toyota,Scion tC,2018,142084,3.2,diesel,manuala,5,15957
+Audi,A6,2023,62716,2.0,diesel,automata,2,22889
+Volkswagen,Golf,2016,17289,2.0,benzina,manuala,5,16399
+Volkswagen,Passat,2018,235662,3.4,benzina,manuala,2,13406
+Toyota,Scion tC,2021,184785,3.8,hybrid,manuala,5,17075
+Audi,A6,2019,207903,2.2,benzina,automata,3,15710
+Audi,S4,2017,284158,2.9,hybrid,automata,2,11615
+Audi,RS 6,2007,62993,1.9,hybrid,manuala,4,12821
+BMW,135i,2014,251860,3.1,benzina,manuala,4,11859
+Toyota,Prius,2006,81329,4.2,diesel,manuala,5,9911
+Mercedes-Benz,E-Class,2018,283600,2.1,hybrid,automata,5,11743
+Audi,TT,2013,79069,3.3,hybrid,automata,2,17401
+Mercedes-Benz,SL-Class,2014,47828,3.2,benzina,automata,4,17089
+Toyota,Scion xA,2019,237041,1.3,benzina,manuala,3,12712
+Audi,S4,2022,191994,1.5,benzina,automata,4,18053
+Toyota,Scion xB,2013,149467,3.2,hybrid,manuala,3,12658
+Volkswagen,Phaeton,2006,61273,3.8,diesel,manuala,3,11160
+Ford,Focus,2014,50033,4.0,benzina,automata,2,17067
+BMW,135i,2023,34984,4.2,benzina,automata,2,27915
+Audi,A6,2011,230371,2.1,benzina,manuala,3,5701
+Toyota,Scion tC,2017,159363,3.2,hybrid,automata,4,14459
+Audi,S4,2021,279555,4.0,diesel,automata,5,16890
+BMW,328i,2007,187268,2.2,hybrid,manuala,3,5738
+Mercedes-Benz,SL-Class,2008,209366,3.0,benzina,manuala,2,7526
+Mercedes-Benz,CLS-Class,2007,267307,2.3,diesel,automata,4,6197
+BMW,M3,2023,289564,4.0,benzina,automata,3,16305
+Mercedes-Benz,CLS-Class,2005,77930,2.3,benzina,manuala,3,8424
+Volkswagen,Routan,2022,58352,1.4,hybrid,automata,3,19633
+Toyota,Scion tC,2018,8191,2.1,hybrid,automata,4,18549
+BMW,328i,2011,224861,3.2,diesel,automata,3,9714
+Hyundai,Tucson,2023,61492,1.5,diesel,manuala,3,19624
+Ford,Crown Victoria,2018,35111,4.5,benzina,manuala,4,19642
+Mercedes-Benz,Sprinter,2015,254031,1.3,benzina,automata,4,10303
+BMW,135i,2021,68530,3.3,benzina,automata,5,22021
+BMW,135i,2013,212888,4.3,benzina,manuala,3,13308
+Volkswagen,Touareg,2018,99439,2.2,hybrid,automata,5,15536
+Ford,Fusion,2013,141511,2.5,diesel,automata,4,9352
+Volkswagen,Golf,2019,128257,2.7,diesel,automata,4,17409
+Volkswagen,Routan,2007,274054,4.4,benzina,automata,2,5135
+Hyundai,Tucson,2020,184761,1.7,hybrid,automata,4,14131
+Audi,RS 6,2015,182558,3.9,diesel,automata,3,14932
+Volkswagen,Phaeton,2021,13706,2.0,diesel,manuala,3,22800
+BMW,135i,2012,141998,3.0,diesel,manuala,3,13964
+Audi,S4,2016,238103,3.8,hybrid,manuala,4,12333
+Audi,S4,2010,246130,2.1,diesel,manuala,2,6993
+Volkswagen,Passat,2006,122235,2.8,benzina,manuala,3,8264
+Ford,Taurus,2015,269167,1.6,hybrid,manuala,2,6464
+Hyundai,Veloster,2018,251353,3.1,benzina,automata,5,10867
+Volkswagen,Touareg,2012,157889,3.5,benzina,automata,2,11952
+Ford,Crown Victoria,2008,82984,2.5,diesel,manuala,3,10867
+Volkswagen,Touareg,2020,142469,3.1,benzina,manuala,2,16671
+Ford,Focus,2014,171597,2.8,benzina,automata,2,11975
+Volkswagen,Routan,2007,47821,1.2,hybrid,automata,5,9511
+Volkswagen,Golf,2013,145905,4.0,diesel,manuala,2,12620
+Hyundai,Santa Fe,2009,233870,1.3,hybrid,manuala,2,5071
+Ford,Mustang,2011,96006,1.9,diesel,automata,4,11120
+Toyota,Scion tC,2013,74286,2.9,hybrid,manuala,4,13462
+Ford,Fusion,2014,210977,2.2,hybrid,automata,5,9508
+Hyundai,Tucson,2019,166645,3.6,diesel,manuala,5,14627
+Mercedes-Benz,Sprinter,2020,105417,1.2,benzina,automata,4,19826
+Ford,Taurus,2012,23658,1.4,benzina,automata,4,11774
+Mercedes-Benz,SL-Class,2005,184635,2.6,hybrid,automata,4,5948
+Mercedes-Benz,Sprinter,2005,276896,1.3,diesel,automata,3,3057
+Hyundai,Veloster,2017,100665,1.4,benzina,manuala,3,14257
+Ford,Crown Victoria,2017,125987,3.9,hybrid,automata,3,15716
+Audi,TT,2008,137161,2.1,hybrid,manuala,2,8495
+Audi,RS 6,2009,60077,2.3,diesel,manuala,2,13510
+Toyota,Scion xA,2008,107932,1.1,diesel,manuala,3,9191
+Mercedes-Benz,E-Class,2015,289890,3.0,benzina,manuala,2,11838
